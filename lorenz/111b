@@ -1,0 +1,1 @@
+svg onload="setInterval(V=>innerHTML+=`<text x=${N+=X*(E+=X-(X*N-E)/99)/N-1} y=${N+(X+=(E-X)/9)}>.`,X=E=N=1)">
